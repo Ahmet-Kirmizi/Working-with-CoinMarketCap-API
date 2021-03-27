@@ -1,6 +1,5 @@
 import requests
 import json
-import datetime as dt  
 
 #GLOBAL VARIABLES
 count = 1
