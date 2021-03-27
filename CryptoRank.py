@@ -7,7 +7,7 @@ count = 1
 
 headers = {
     'Accepts': 'application/json',
-    'X-CMC_PRO_API_KEY': '046bcd29-c2fc-4482-8368-a05d8df8efdd'
+    'X-CMC_PRO_API_KEY': 'your coinmarketcap API key'
 }
 
 params = {
